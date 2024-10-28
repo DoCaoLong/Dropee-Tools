@@ -5,7 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 
 #Data
-data
+data.txt
 package-lock.json
 dropee-proxy.js
 token.json
